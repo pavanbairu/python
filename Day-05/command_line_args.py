@@ -1,6 +1,6 @@
 import sys # importing sys module for the runtime arguments
 
-def add(n1, n2):
+def add(n1, n2):    
     sum = n1 + n2
     return sum
 
